@@ -1,0 +1,27 @@
+
+
+body{
+    background-image: url("https://images6.alphacoders.com/400/thumb-1920-400645.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+h1{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+    text-size-adjust: 1rem;
+}
+th{
+    color:rgb(218, 210, 205);
+    font-size: 2rem;
+    justify-content: space-between;
+    padding: 3rem;
+}
+
+
+    
